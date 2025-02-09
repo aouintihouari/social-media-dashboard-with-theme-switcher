@@ -1,0 +1,78 @@
+{
+  "social_media_stats": [
+    {
+      "platform": "Facebook",
+      "username": "@nathanf",
+      "followers": 1987,
+      "change_today": 12
+    },
+    {
+      "platform": "Twitter",
+      "username": "@nathanf",
+      "followers": 1044,
+      "change_today": 99
+    },
+    {
+      "platform": "Instagram",
+      "username": "@realnathanf",
+      "followers": "11k",
+      "change_today": 1099
+    },
+    {
+      "platform": "YouTube",
+      "username": "Nathan F.",
+      "subscribers": 8239,
+      "change_today": -144
+    }
+  ],
+  "engagement_metrics": [
+    {
+      "platform": "Facebook",
+      "metric": "Page Views",
+      "value": 87,
+      "change_percentage": 3
+    },
+    {
+      "platform": "Facebook",
+      "metric": "Likes",
+      "value": 52,
+      "change_percentage": -2
+    },
+    {
+      "platform": "Instagram",
+      "metric": "Likes",
+      "value": 5462,
+      "change_percentage": 2257
+    },
+    {
+      "platform": "Instagram",
+      "metric": "Profile Views",
+      "value": "52k",
+      "change_percentage": 1375
+    },
+    {
+      "platform": "Twitter",
+      "metric": "Retweets",
+      "value": 117,
+      "change_percentage": 303
+    },
+    {
+      "platform": "Twitter",
+      "metric": "Likes",
+      "value": 507,
+      "change_percentage": 553
+    },
+    {
+      "platform": "YouTube",
+      "metric": "Likes",
+      "value": 107,
+      "change_percentage": -19
+    },
+    {
+      "platform": "YouTube",
+      "metric": "Total Views",
+      "value": 1407,
+      "change_percentage": -12
+    }
+  ]
+}

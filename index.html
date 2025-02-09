@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <title>Frontend Mentor | Social media dashboard with theme switcher</title>
+  </head>
+  <body>
+    <main class="container">
+      <header class="header primary">
+        <div class="header__container">
+          <aside class="header__content">
+            <h1 class="header__title">Social Media Dashboard</h1>
+            <p class="header__followers secondary">Total Followers: 23,004</p>
+          </aside>
+          <div class="separation"></div>
+          <div class="theme-switcher">
+            <span class="secondary bold overview__card__heading">
+              Dark mode
+            </span>
+            <label class="switch">
+              <input type="checkbox" id="theme-toggle" />
+              <span class="slider round"></span>
+            </label>
+          </div>
+        </div>
+      </header>
+      <section class="social-media-stats__container"></section>
+      <section class="engagement-metrics">
+        <h3 class="engagement-metrics__title overview__heading">
+          Overview - Today
+        </h3>
+        <section class="engagement-metrics__container"></section>
+      </section>
+    </main>
+  </body>
+</html>
